@@ -5,7 +5,7 @@ var row = 0;
 var col = 0; 
 
 var gameOver = false;
-var word = "BAKBUK";
+var word = "TEKNIK";
 
 window.onload = function(){
     intialize();
