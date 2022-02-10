@@ -5,7 +5,7 @@ var row = 0;
 var col = 0; 
 
 var gameOver = false;
-var word = "DURIAN";
+var word = "BIOSFER";
 
 window.onload = function(){
     intialize();
