@@ -5,7 +5,7 @@ var row = 0;
 var col = 0; 
 
 var gameOver = false;
-var word = "RESIKO";
+var word = "KAMPUS";
 
 window.onload = function(){
     intialize();
